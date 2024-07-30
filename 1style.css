@@ -1,0 +1,78 @@
+body{
+
+    height:1000px;
+    width:100%;
+    text-decoration:none;
+    background-color:#363636
+
+}
+
+header{
+
+    background-color:#313131;
+    width:100%;
+    height:50px;
+    margin-top:-5px;
+    margin-left:-7px;
+
+}
+
+#index-a{
+
+    position:absolute;
+    top:18px;
+    left:18px;
+    color:white;
+    text-decoration:none;
+
+}
+
+#servidores-a{
+
+    position:absolute;
+    top:18px;
+    left:70px;
+    color:white;
+    text-decoration:none;
+
+}
+
+#lan-a{
+
+    position:absolute;
+    top:18px;
+    left:150px;
+    color:white;
+    text-decoration:none;
+
+}
+
+h1{
+
+    color:white;
+    font:bold 30px arial;
+
+}
+
+h2{
+
+    color:gray;
+    font:normal 22px arial;
+
+}
+
+p{
+
+    color:white;
+    font:normal 16px arial;
+    margin-left:30px;
+    margin-right:700px
+
+}
+
+img{
+
+    height:300px;
+    border-radius:10px;
+
+}
